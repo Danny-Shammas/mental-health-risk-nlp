@@ -2,8 +2,26 @@
 
 A deep learning project that classifies Reddit posts into mental health categories using fine-tuned DistilBERT.
 
+## Course Information
+
 **Course:** Neural Networks and Deep Learning  
-**Dataset:** [Mental Disorders Identification — Reddit NLP (Kaggle)](https://www.kaggle.com/datasets/kamaruladha/mental-disorders-identification-reddit-nlp)
+**Professor:** Zoran Ševarac  
+**Teaching Assistant:** Dragica Ljubisavljević  
+
+---
+
+## Project Authors
+
+- Danny Shammas  
+- Mina Petrović  
+
+---
+
+## Dataset
+
+Dataset used in this project:  
+[Mental Disorders Identification — Reddit NLP (Kaggle)](https://www.kaggle.com/datasets/kamaruladha/mental-disorders-identification-reddit-nlp)
+
 
 ---
 
